@@ -1,3 +1,4 @@
+#𝐀𝐚𝐬𝐡𝐢𝐤 𝐓ᴇᴀᴍ
 from typing import Callable, Union
 from functools import wraps
 from pyrogram import Client
