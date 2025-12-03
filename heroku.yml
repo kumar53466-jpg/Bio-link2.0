@@ -2,5 +2,5 @@ build:
   docker:
     worker: Dockerfile
 run:
-  mrroy: python3 -m MAFU
+  mrroy: python3 -m Biolink
 
