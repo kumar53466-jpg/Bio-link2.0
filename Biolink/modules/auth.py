@@ -1,3 +1,4 @@
+#𝐀𝐚𝐬𝐡𝐢𝐤 𝐓ᴇᴀᴍ
 from pyrogram import filters
 from pyrogram.types import Message
 from Biolink import Biolink as app
