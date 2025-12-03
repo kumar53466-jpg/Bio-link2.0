@@ -1,3 +1,4 @@
+#𝐀𝐚𝐬𝐡𝐢𝐤 𝐓ᴇᴀᴍ
 import asyncio
 import importlib
 from pyrogram import idle
