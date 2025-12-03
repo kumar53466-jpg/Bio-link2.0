@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 import asyncio
-from MAFU import MAFU as app
+from Biolink import Biolink as app
 
 @app.on_callback_query(filters.regex("close"))
 async def close_menu(_, query: CallbackQuery):
