@@ -1,7 +1,7 @@
 import time
 from pyrogram import filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from MAFU import MAFU as app
+from Biolink import Biolink as app
 from config import BOT_USERNAME
 
 start_time = time.time()
