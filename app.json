@@ -27,6 +27,10 @@
       "description": "Your Logger Chat ID",
       "required": true
     },
+    "OTHER_LOGS": {
+      "description": "Your OTHER_LOGS Chat ID",
+      "required": true
+    },
     "MONGO_URL": {
       "description": "Your MongoDB URL",
       "required": true
