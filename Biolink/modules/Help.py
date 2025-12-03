@@ -1,6 +1,6 @@
 from pyrogram import filters
 from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
-from MAFU import MAFU as app
+from Biolink import Biolink as app
 
 # Show Help Menu
 @app.on_callback_query(filters.regex("^show_help$"))
