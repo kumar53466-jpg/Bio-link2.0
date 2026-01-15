@@ -8,8 +8,8 @@ API_HASH = os.environ.get("API_HASH", "c17e4eb6d994c9892b8a8b6bfea4042a")
 
 # ------------------------------------------------
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8550727687:AAHuuN0dXOXdIW1-AcvQ21To06dLMtVZsI4")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Mafiyamusic_bot")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8397080991:AAG00A8uHt5UBnnETzhq6NGJ-k7Oj7c5eHo")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@InstaviraIbot")
 
 # -----------------------------------------------
 
